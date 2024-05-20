@@ -1,0 +1,6 @@
+pandas
+fastparquet
+scikit-learn
+mlflow==2.13.0
+click==8.1.7
+hyperopt==0.2.7

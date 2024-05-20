@@ -1,0 +1,15 @@
+artifact_uri: file:///usr/src/app/mlruns/0/224cb59e3aee45ae82fc8e19f04aed56/artifacts
+end_time: 1716218736512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 224cb59e3aee45ae82fc8e19f04aed56
+run_name: useful-skink-783
+run_uuid: 224cb59e3aee45ae82fc8e19f04aed56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716218736443
+status: 3
+tags: []
+user_id: root

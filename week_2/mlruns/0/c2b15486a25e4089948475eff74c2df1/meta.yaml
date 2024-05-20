@@ -1,0 +1,15 @@
+artifact_uri: file:///usr/src/app/mlruns/0/c2b15486a25e4089948475eff74c2df1/artifacts
+end_time: 1716220280455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b15486a25e4089948475eff74c2df1
+run_name: overjoyed-rat-238
+run_uuid: c2b15486a25e4089948475eff74c2df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716220280247
+status: 3
+tags: []
+user_id: root

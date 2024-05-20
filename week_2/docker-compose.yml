@@ -1,0 +1,15 @@
+services:
+  mlops_week_2:
+    volumes:
+        - "./:/usr/src/app"
+    build: 
+        context: .
+        dockerfile: Dockerfile
+    ports:
+      - "8889:5000"
+
+networks:
+    default:
+        external:
+            name: davidby
+

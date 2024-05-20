@@ -1,0 +1,15 @@
+artifact_uri: file:///usr/src/app/mlruns/0/f67693c5c09e4353820e90c389d3f1f7/artifacts
+end_time: 1716218914259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f67693c5c09e4353820e90c389d3f1f7
+run_name: bald-shark-456
+run_uuid: f67693c5c09e4353820e90c389d3f1f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716218887001
+status: 3
+tags: []
+user_id: root
